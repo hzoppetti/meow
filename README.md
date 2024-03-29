@@ -1,8 +1,6 @@
 # Meow Match
 A quick project for matching cats photos fetched from the [Cat API](https://thecatapi.com/).
 
-Unless I'm serving something else, this is usually available to preview here: https://meek-mermaid-c73df7.netlify.app/
-
 ## Quick start
 This little app uses the public auth for the Cat API, and therefore, you don't need a key.
 
